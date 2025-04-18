@@ -2,7 +2,7 @@
 
 Monitor system processes and resource usage in real-time with a sleek, user-friendly dashboard.
 
-##Overview
+## Overview
 
 The Real-Time Process Monitoring Dashboard is a web-based application built to provide system administrators with real-time insights into system processes and resource usage. It displays a sortable table of running processes (including PID, name, status, CPU%, and memory%) and visualizes system-wide CPU and memory usage through interactive charts. The dashboard updates every 2 seconds, ensuring up-to-date information, and includes features like process termination, a refresh toggle, and a memory usage breakdown by process.
 
